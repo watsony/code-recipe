@@ -1,6 +1,9 @@
-# code-recipe
+# JavaScript コードレシピ集  スグに使えるテクニック278
 
-サンプルページURL例:
+書籍ページ:
+https://gihyo.jp/book/2019/978-4-297-10368-2
+
+サンプルページURL例:  
 https://watsony.github.io/code-recipe/samples/c01/002/
 
 ## Chapter一覧
