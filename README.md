@@ -3,7 +3,7 @@
 サンプルページURL例:
 https://watsony.github.io/code-recipe/samples/c01/002/
 
-## チャプター一覧
+## Chapter一覧
 |  Chapter  |  Title  |
 | ---- | ---- |
 |  [1](https://github.com/watsony/code-recipe/tree/main/samples/c01) |  JavaScriptの基礎  |
