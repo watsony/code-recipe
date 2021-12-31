@@ -1,5 +1,7 @@
 # code-recipe
 
+https://watsony.github.io/code-recipe/samples/c01/001/
+
 Chapter 1　JavaScriptの基礎
 001　JavaScriptの基礎を覚えたい
 002　JavaScriptの書き方を知りたい
