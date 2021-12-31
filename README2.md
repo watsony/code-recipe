@@ -1,63 +1,25 @@
 ## チャプター一覧
 |  Chapter  |  Title  |
 | ---- | ---- |
-|  [JavaScriptの基礎
-](https://github.com/watsony/code-recipe/tree/main/samples/cJavaScriptの基礎
-) |  JavaScriptの基礎  |
-|  [真偽値や数値や文字の取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/c真偽値や数値や文字の取り扱い
-) |  真偽値や数値や文字の取り扱い  |
-|  [複数データの取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/c複数データの取り扱い
-) |  複数データの取り扱い  |
-|  [データについて深く知る
-](https://github.com/watsony/code-recipe/tree/main/samples/cデータについて深く知る
-) |  データについて深く知る  |
-|  [日付や時間の取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/c日付や時間の取り扱い
-) |  日付や時間の取り扱い  |
-|  [ブラウザーの操作方法
-](https://github.com/watsony/code-recipe/tree/main/samples/cブラウザーの操作方法
-) |  ブラウザーの操作方法  |
-|  [ユーザーアクションの取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/cユーザーアクションの取り扱い
-) |  ユーザーアクションの取り扱い  |
-|  [HTML要素の操作方法
-](https://github.com/watsony/code-recipe/tree/main/samples/cHTML要素の操作方法
-) |  HTML要素の操作方法  |
-|  [フォーム要素の操作方法
-](https://github.com/watsony/code-recipe/tree/main/samples/cフォーム要素の操作方法
-) |  フォーム要素の操作方法  |
-|  [アニメーションの作成
-](https://github.com/watsony/code-recipe/tree/main/samples/cアニメーションの作成
-) |  アニメーションの作成  |
-|  [画像・音声・動画の取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/c画像・音声・動画の取り扱い
-) |  画像・音声・動画の取り扱い  |
-|  [SVGやcanvas要素を取り扱う
-](https://github.com/watsony/code-recipe/tree/main/samples/cSVGやcanvas要素を取り扱う
-) |  SVGやcanvas要素を取り扱う  |
-|  [処理の実行タイミングを制御する
-](https://github.com/watsony/code-recipe/tree/main/samples/c処理の実行タイミングを制御する
-) |  処理の実行タイミングを制御する  |
-|  [さまざまなデータの送受信方法
-](https://github.com/watsony/code-recipe/tree/main/samples/cさまざまなデータの送受信方法
-) |  さまざまなデータの送受信方法  |
-|  [ローカルデータの取り扱い
-](https://github.com/watsony/code-recipe/tree/main/samples/cローカルデータの取り扱い
-) |  ローカルデータの取り扱い  |
-|  [スマートフォンのセンサー
-](https://github.com/watsony/code-recipe/tree/main/samples/cスマートフォンのセンサー
-) |  スマートフォンのセンサー  |
-|  [プログラムのデバッグ
-](https://github.com/watsony/code-recipe/tree/main/samples/cプログラムのデバッグ
-) |  プログラムのデバッグ  |
-|  [関数やクラスについて詳しく知る
-](https://github.com/watsony/code-recipe/tree/main/samples/c関数やクラスについて詳しく知る
-) |  関数やクラスについて詳しく知る  |
-|  [JavaScriptをより深く知る
-](https://github.com/watsony/code-recipe/tree/main/samples/cJavaScriptをより深く知る
-) |  JavaScriptをより深く知る  |
+|  [1](https://github.com/watsony/code-recipe/tree/main/samples/c01) |  JavaScriptの基礎  |
+|  [2](https://github.com/watsony/code-recipe/tree/main/samples/c02) |  真偽値や数値や文字の取り扱い  |
+|  [3](https://github.com/watsony/code-recipe/tree/main/samples/c03) |  複数データの取り扱い  |
+|  [4](https://github.com/watsony/code-recipe/tree/main/samples/c04) |  データについて深く知る  |
+|  [5](https://github.com/watsony/code-recipe/tree/main/samples/c05) |  日付や時間の取り扱い  |
+|  [6](https://github.com/watsony/code-recipe/tree/main/samples/c06) |  ブラウザーの操作方法  |
+|  [7](https://github.com/watsony/code-recipe/tree/main/samples/c07) |  ユーザーアクションの取り扱い  |
+|  [8](https://github.com/watsony/code-recipe/tree/main/samples/c08) |  HTML要素の操作方法  |
+|  [9](https://github.com/watsony/code-recipe/tree/main/samples/c09) |  フォーム要素の操作方法  |
+|  [10](https://github.com/watsony/code-recipe/tree/main/samples/c10) |  アニメーションの作成  |
+|  [11](https://github.com/watsony/code-recipe/tree/main/samples/c11) |  画像・音声・動画の取り扱い  |
+|  [12](https://github.com/watsony/code-recipe/tree/main/samples/c12) |  SVGやcanvas要素を取り扱う  |
+|  [13](https://github.com/watsony/code-recipe/tree/main/samples/c13) |  処理の実行タイミングを制御する  |
+|  [14](https://github.com/watsony/code-recipe/tree/main/samples/c14) |  さまざまなデータの送受信方法  |
+|  [15](https://github.com/watsony/code-recipe/tree/main/samples/c15) |  ローカルデータの取り扱い  |
+|  [16](https://github.com/watsony/code-recipe/tree/main/samples/c16) |  スマートフォンのセンサー  |
+|  [17](https://github.com/watsony/code-recipe/tree/main/samples/c17) |  プログラムのデバッグ  |
+|  [18](https://github.com/watsony/code-recipe/tree/main/samples/c18) |  関数やクラスについて詳しく知る  |
+|  [19](https://github.com/watsony/code-recipe/tree/main/samples/c19) |  JavaScriptをより深く知る  |
 
 
 ## コードレシピ一覧
